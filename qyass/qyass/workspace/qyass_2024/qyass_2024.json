@@ -1,0 +1,309 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"1ur7A_t8Td\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0642\u064a\u0627\u0633 24</span>\",\"col\":12}},{\"id\":\"oBN1GkSz94\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u0645\u0633\u062a\u0646\u062f\u0627\u062a\",\"col\":4}},{\"id\":\"m9DZYtsBxf\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631\",\"col\":4}},{\"id\":\"HFfaf5o7J6\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0644\u0648\u062d\u0627\u062a \u0627\u0644\u062a\u062d\u0643\u0645\",\"col\":4}},{\"id\":\"c5SrktA8eF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0643\u0627\u0646\u0628\u0627\u0646 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0627\u0643\u062a\u0645\u0627\u0644\",\"col\":3}},{\"id\":\"D7sflqRwgt\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0643\u0627\u0646\u0628\u0627\u0646 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0644\u062a\u0642\u064a\u064a\u0645\",\"col\":3}},{\"id\":\"LXUciO5zyk\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"HNgu4Mwfqs\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u062c\u0647\u0629\",\"col\":4}},{\"id\":\"-LRhmGJAbB\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0639\u062f\u0627\u062f\u0627\u062a\",\"col\":4}}]",
+ "creation": "2024-02-26 11:55:58.553828",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "projects",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Qyass-2024",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u062c\u0647\u0629",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u062c\u0647\u0629",
+   "link_count": 0,
+   "link_to": "Organization",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0645\u0648\u0638\u0641",
+   "link_count": 0,
+   "link_to": "Employee",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0627\u062f\u0627\u0631\u0629",
+   "link_count": 0,
+   "link_to": "Department",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0639\u062f\u0627\u062f\u0627\u062a",
+   "link_count": 1,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0648\u0638\u0627\u0626\u0641",
+   "link_count": 0,
+   "link_to": "Jobs",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0644\u0648\u062d\u0627\u062a \u0627\u0644\u062a\u062d\u0643\u0645",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0627\u062f\u0627\u0621 \u0644\u0643\u0644 \u0645\u0648\u0638\u0641",
+   "link_count": 0,
+   "link_to": "employee-kanban-2024",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0627\u062f\u0627\u0621 \u0644\u0643\u0644 \u0627\u062f\u0627\u0631\u0629",
+   "link_count": 0,
+   "link_to": "department-kanban-2024",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062a\u0642\u0631\u064a\u0631 \u0627\u0644\u0627\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u0644\u064a\u0627",
+   "link_count": 0,
+   "link_to": "high-department",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0645\u0633\u062a\u0646\u062f\u0627\u062a",
+   "link_count": 11,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0645\u0646\u0627\u0638\u064a\u0631",
+   "link_count": 0,
+   "link_to": "Vision",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0645\u062d\u0627\u0648\u0631",
+   "link_count": 0,
+   "link_to": "Dimension",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631",
+   "link_count": 0,
+   "link_to": "Elements-2024",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u062d\u0627\u0636\u0631 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639",
+   "link_count": 0,
+   "link_to": "Project Meeting 2024",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0644\u062c\u0627\u0646 \u0627\u0644\u062d\u0648\u0643\u0645\u0629",
+   "link_count": 0,
+   "link_to": "Governance Committees 2024",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631",
+   "link_count": 0,
+   "link_to": "Video",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0633\u0626\u0644\u0629 \u0648\u0627\u062c\u0648\u0628\u0629",
+   "link_count": 0,
+   "link_to": "Q And A",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0645\u0633\u062a\u0634\u0627\u0631",
+   "link_count": 0,
+   "link_to": "Consultant",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062a\u0639\u0627\u0645\u064a\u0645 Dga",
+   "link_count": 0,
+   "link_to": "Dga Generalization",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062a\u0639\u0627\u0645\u064a\u0645 \u062f\u0627\u062e\u0644\u064a\u0629",
+   "link_count": 0,
+   "link_to": "Internal Generalizations",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0642\u064a\u0627\u0633 24",
+   "link_count": 0,
+   "link_to": "Qyass 24",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062a\u0642\u0627\u0631\u064a\u0631",
+   "link_count": 4,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0645\u062a\u0627\u062e\u0631\u0629",
+   "link_count": 0,
+   "link_to": "Late Elements 2024",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0646\u062a\u064a\u062c\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629 \u0644\u0644\u0645\u0639\u0627\u064a\u064a\u0631",
+   "link_count": 0,
+   "link_to": "Expected Result",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0646\u062a\u064a\u062c\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629 \u0644\u0644\u0645\u062d\u0627\u0648\u0631",
+   "link_count": 0,
+   "link_to": "Expected Dimension Result",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0646\u062a\u064a\u062c\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629 \u0644\u0644\u0645\u0646\u0627\u0638\u064a\u0631",
+   "link_count": 0,
+   "link_to": "Expected Vision Result",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-03-03 17:38:26.194317",
+ "modified_by": "Administrator",
+ "module": "Qyass",
+ "name": "Qyass-2024",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "Kanban",
+   "kanban_board": "\u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0627\u0643\u062a\u0645\u0627\u0644",
+   "label": "\u0643\u0627\u0646\u0628\u0627\u0646 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0627\u0643\u062a\u0645\u0627\u0644",
+   "link_to": "Elements-2024",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "Kanban",
+   "kanban_board": "\u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0644\u062a\u0642\u064a\u064a\u0645",
+   "label": "\u0643\u0627\u0646\u0628\u0627\u0646 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0644\u062a\u0642\u064a\u064a\u0645",
+   "link_to": "Elements-2024",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Qyass-2024"
+}
