@@ -1,0 +1,96 @@
+{
+ "charts": [
+  {
+   "chart_name": "\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0646\u0627\u0638\u064a\u0631",
+   "label": "\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0646\u0627\u0638\u064a\u0631"
+  }
+ ],
+ "content": "[{\"id\":\"E-wmx1fUc-\",\"type\":\"paragraph\",\"data\":{\"text\":\"<span class=\\\"h3\\\">Cards</span>\",\"col\":12}},{\"id\":\"nP9NpOaRKo\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0644\u0627 \u064a\u0646\u0637\u0628\u0642\",\"col\":3}},{\"id\":\"LTkezzWBje\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u0644\u062a\u0632\u0627\u0645 \u0643\u0644\u0649\",\"col\":3}},{\"id\":\"1sLjWia-IR\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u0644\u062a\u0632\u0627\u0645 \u062c\u0632\u0626\u0649\",\"col\":3}},{\"id\":\"Rpi7IGyXz1\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0639\u062f\u0645 \u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645\",\"col\":3}},{\"id\":\"fpn7_SxOV1\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0639\u062f\u062f \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631\",\"col\":4}},{\"id\":\"rb_msPmGev\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"eHQ5Y9RCQ4\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0644\u0645 \u064a\u062a\u0645 \u0627\u0644\u0628\u062f\u0623\",\"col\":4}},{\"id\":\"beWIb08fOe\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u062a\u062d\u062a \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0647\",\"col\":4}},{\"id\":\"NV1umBbIDv\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u062a\u062d\u062a \u0627\u0644\u0627\u062c\u0631\u0627\u0621\",\"col\":4}},{\"id\":\"Vtpf0S6uSe\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0645\u0643\u062a\u0645\u0644 -\u062a\u0645 \u0627\u0644\u062a\u062d\u0642\u0642\",\"col\":4}},{\"id\":\"F_8MuVGcor\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u0644\u0645\u0639\u0627\u064a\u0631 \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0647 \u0627\u0644\u0639\u0645\u0644 \u0639\u0644\u064a\u0647\u0627\",\"col\":4}},{\"id\":\"wxWvD32PvE\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Charts</b></span>\",\"col\":12}},{\"id\":\"lgxzqVZQKp\",\"type\":\"chart\",\"data\":{\"chart_name\":\"\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0646\u0627\u0638\u064a\u0631\",\"col\":12}}]",
+ "creation": "2024-03-15 12:18:02.046245",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "chart",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Qyass-Dashboard",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Test",
+   "link_count": 0,
+   "link_to": "Dashboard",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Dimension",
+   "link_count": 0,
+   "link_to": "Dimension",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-03-17 17:45:28.641495",
+ "modified_by": "Administrator",
+ "module": "Qyass",
+ "name": "Qyass-Dashboard",
+ "number_cards": [
+  {
+   "label": "\u0644\u0645 \u064a\u062a\u0645 \u0627\u0644\u0628\u062f\u0623",
+   "number_card_name": "\u0644\u0645 \u064a\u062a\u0645 \u0627\u0644\u0628\u062f\u0623"
+  },
+  {
+   "label": "\u0639\u062f\u0645 \u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645",
+   "number_card_name": "\u0639\u062f\u0645 \u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645"
+  },
+  {
+   "label": "\u0644\u0627 \u064a\u0646\u0637\u0628\u0642",
+   "number_card_name": "\u0644\u0627 \u064a\u0646\u0637\u0628\u0642"
+  },
+  {
+   "label": "\u062a\u062d\u062a \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0647",
+   "number_card_name": "\u062a\u062d\u062a \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0647"
+  },
+  {
+   "label": "\u0627\u0644\u062a\u0632\u0627\u0645 \u0643\u0644\u0649",
+   "number_card_name": "\u0627\u0644\u062a\u0632\u0627\u0645 \u0643\u0644\u0649"
+  },
+  {
+   "label": "\u062a\u062d\u062a \u0627\u0644\u0627\u062c\u0631\u0627\u0621",
+   "number_card_name": "\u062a\u062d\u062a \u0627\u0644\u0627\u062c\u0631\u0627\u0621"
+  },
+  {
+   "label": "\u0645\u0643\u062a\u0645\u0644 -\u062a\u0645 \u0627\u0644\u062a\u062d\u0642\u0642",
+   "number_card_name": "\u0645\u0643\u062a\u0645\u0644 -\u062a\u0645 \u0627\u0644\u062a\u062d\u0642\u0642"
+  },
+  {
+   "label": "\u0627\u0644\u062a\u0632\u0627\u0645 \u062c\u0632\u0626\u0649",
+   "number_card_name": "\u0627\u0644\u062a\u0632\u0627\u0645 \u062c\u0632\u0626\u0649"
+  },
+  {
+   "label": "\u0627\u0644\u0645\u0639\u0627\u064a\u0631 \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0647 \u0627\u0644\u0639\u0645\u0644 \u0639\u0644\u064a\u0647\u0627",
+   "number_card_name": "\u0627\u0644\u0645\u0639\u0627\u064a\u0631 \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0647 \u0627\u0644\u0639\u0645\u0644 \u0639\u0644\u064a\u0647\u0627"
+  },
+  {
+   "label": "\u0639\u062f\u062f \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631",
+   "number_card_name": "\u0639\u062f\u062f \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [],
+ "title": "Qyass-Dashboard"
+}

@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"1ur7A_t8Td\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0642\u064a\u0627\u0633 24</span>\",\"col\":12}},{\"id\":\"oBN1GkSz94\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u0645\u0633\u062a\u0646\u062f\u0627\u062a\",\"col\":4}},{\"id\":\"m9DZYtsBxf\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631\",\"col\":4}},{\"id\":\"HFfaf5o7J6\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0644\u0648\u062d\u0627\u062a \u0627\u0644\u062a\u062d\u0643\u0645\",\"col\":4}},{\"id\":\"c5SrktA8eF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0643\u0627\u0646\u0628\u0627\u0646 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0627\u0643\u062a\u0645\u0627\u0644\",\"col\":3}},{\"id\":\"D7sflqRwgt\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0643\u0627\u0646\u0628\u0627\u0646 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0644\u062a\u0642\u064a\u064a\u0645\",\"col\":3}},{\"id\":\"LXUciO5zyk\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"HNgu4Mwfqs\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u062c\u0647\u0629\",\"col\":4}},{\"id\":\"-LRhmGJAbB\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0639\u062f\u0627\u062f\u0627\u062a\",\"col\":4}}]",
+ "content": "[{\"id\":\"1ur7A_t8Td\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0642\u064a\u0627\u0633 24</span>\",\"col\":12}},{\"id\":\"oBN1GkSz94\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u0645\u0633\u062a\u0646\u062f\u0627\u062a\",\"col\":4}},{\"id\":\"m9DZYtsBxf\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631\",\"col\":4}},{\"id\":\"HFfaf5o7J6\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0644\u0648\u062d\u0627\u062a \u0627\u0644\u062a\u062d\u0643\u0645\",\"col\":4}},{\"id\":\"LXUciO5zyk\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"HNgu4Mwfqs\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u062c\u0647\u0629\",\"col\":4}},{\"id\":\"-LRhmGJAbB\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0639\u062f\u0627\u062f\u0627\u062a\",\"col\":4}}]",
  "creation": "2024-02-26 11:55:58.553828",
  "custom_blocks": [],
  "docstatus": 0,
@@ -229,7 +229,8 @@
    "hidden": 0,
    "is_query_report": 0,
    "label": "\u062a\u0642\u0627\u0631\u064a\u0631",
-   "link_count": 4,
+   "link_count": 5,
+   "link_type": "DocType",
    "onboard": 0,
    "type": "Card Break"
   },
@@ -272,9 +273,19 @@
    "link_type": "Report",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0646\u0627\u0638\u064a\u0631",
+   "link_count": 0,
+   "link_to": "\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0646\u0627\u0638\u064a\u0631",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2024-03-03 17:38:26.194317",
+ "modified": "2024-03-17 17:24:23.252452",
  "modified_by": "Administrator",
  "module": "Qyass",
  "name": "Qyass-2024",
@@ -284,26 +295,7 @@
  "public": 1,
  "quick_lists": [],
  "roles": [],
- "sequence_id": 1.0,
- "shortcuts": [
-  {
-   "color": "Grey",
-   "doc_view": "Kanban",
-   "kanban_board": "\u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0627\u0643\u062a\u0645\u0627\u0644",
-   "label": "\u0643\u0627\u0646\u0628\u0627\u0646 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u0627\u0643\u062a\u0645\u0627\u0644",
-   "link_to": "Elements-2024",
-   "stats_filter": "[]",
-   "type": "DocType"
-  },
-  {
-   "color": "Grey",
-   "doc_view": "Kanban",
-   "kanban_board": "\u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0644\u062a\u0642\u064a\u064a\u0645",
-   "label": "\u0643\u0627\u0646\u0628\u0627\u0646 \u0627\u0644\u0645\u0639\u0627\u064a\u064a\u0631 \u0637\u0628\u0642\u0627 \u0644\u0644\u062a\u0642\u064a\u064a\u0645",
-   "link_to": "Elements-2024",
-   "stats_filter": "[]",
-   "type": "DocType"
-  }
- ],
+ "sequence_id": 2.0,
+ "shortcuts": [],
  "title": "Qyass-2024"
 }
