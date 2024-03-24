@@ -258,35 +258,35 @@
   },
   {
    "fieldname": "complete_percent",
-   "fieldtype": "Data",
+   "fieldtype": "Percent",
    "in_list_view": 1,
    "label": "Complete Percent",
    "read_only": 1
   },
   {
    "fieldname": "proof_count",
-   "fieldtype": "Data",
+   "fieldtype": "Int",
    "in_list_view": 1,
    "label": "Proof Count",
    "read_only": 1
   },
   {
    "fieldname": "completed_count",
-   "fieldtype": "Data",
+   "fieldtype": "Int",
    "in_list_view": 1,
    "label": "Completed Proof",
    "read_only": 1
   },
   {
    "fieldname": "reviewed_count",
-   "fieldtype": "Data",
+   "fieldtype": "Int",
    "in_list_view": 1,
    "label": "Reviewed Proof",
    "read_only": 1
   },
   {
    "fieldname": "reviewed_percent",
-   "fieldtype": "Data",
+   "fieldtype": "Percent",
    "in_list_view": 1,
    "label": "Reviewed Percent",
    "read_only": 1
@@ -294,7 +294,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-03-05 11:31:06.402112",
+ "modified": "2024-03-24 12:47:44.506623",
  "modified_by": "Administrator",
  "module": "Qyass",
  "name": "Elements-2024",
