@@ -14,7 +14,7 @@ class InternalGeneralizations(Document):
 		recip_list = []
 		if recipients:
 			for i in recipients:
-				email = frappe.db.get_value("Employee",i.,'email')
+				email = frappe.db.get_value("Employee",i.employee,'email')
 				if email:
 					recip_list.append(email)
 		if recip_list:
